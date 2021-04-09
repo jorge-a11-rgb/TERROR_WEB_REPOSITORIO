@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://cnwebsite.blob.core.windows.net/files/2020/07/freddykrueger-pelicula-portada.jpg);
+}
+#t{
+    text-align: left;
+    color: aliceblue;
+}
+#t2{
+    text-align: left;
+    color: aliceblue;
+}
+.rescate a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}

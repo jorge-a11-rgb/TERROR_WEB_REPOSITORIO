@@ -5,14 +5,40 @@ body {
 {
     color: aliceblue;
     text-align: center;
+    
   
 
 
 
 }
+.contenido {
+    display: flex;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    font-family: verdana;
+    font-weight: bold;
+}
 #t{
-  height:1000 px;
+  
+  height: 140px;
 
+}
+footer{
+  text-align: center;
+}
+
+
+
+.lateral_1{
+  color: aliceblue;
+  text-align: center;
+}
+.fono h1{
+  text-align: center;
+}
+.rescate{
+  text-align: center;
 }
 
 .container-fluid {

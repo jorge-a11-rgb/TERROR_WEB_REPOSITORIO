@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://cnwebsite.blob.core.windows.net/files/2020/07/freddykrueger-pelicula-portada.jpg);
+    background-image: url(https://www.taggedmx.com/wp-content/uploads/2019/08/Nuevos-seres-demoni%CC%81acos-en-Annabelle-3-Vuelve-a-Casa.jpg);
 }
 #t{
     text-align: left;
@@ -12,4 +12,7 @@ body{
 .rescate a{
     color: rgb(255, 255, 255);
     text-align: center;
+}
+#fin a{
+    color: aliceblue;
 }

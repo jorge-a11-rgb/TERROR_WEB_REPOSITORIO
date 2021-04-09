@@ -3,13 +3,16 @@ body {
 }
 .container-fluid h1
 {
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-align: center;
     
   
 
 
 
+}
+#t h1{
+color: rgb(255, 255, 255);
 }
 .contenido {
     display: flex;

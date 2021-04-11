@@ -11,6 +11,9 @@ body {
 
 
 }
+#calabaza{
+  text-align: center;
+}
 #t h1{
 color: rgb(255, 255, 255);
 }
@@ -29,6 +32,9 @@ color: rgb(255, 255, 255);
 }
 footer{
   text-align: center;
+  background-color: black;
+  color: aliceblue;
+
 }
 
 
